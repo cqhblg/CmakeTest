@@ -10,3 +10,6 @@
 0	586	607878810	CMakeFiles/CMakeTest.dir/src/main.cpp.obj	cbd4abc83dc5a861
 1	195	607878834	CMakeFiles/CMakeTest.dir/src/Box.cpp.obj	79974d100c6caf44
 196	326	607878834	CMakeTest.exe	e82705db0e58b31b
+3	474	607881069	CMakeFiles/CMakeTest.dir/src/Box.cpp.obj	79974d100c6caf44
+0	589	607881069	CMakeFiles/CMakeTest.dir/src/main.cpp.obj	cbd4abc83dc5a861
+590	740	607881069	CMakeTest.exe	e82705db0e58b31b

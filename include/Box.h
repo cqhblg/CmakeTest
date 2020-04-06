@@ -15,4 +15,6 @@ class Box {
   void setHeight(int h);
 
   void test();
+
+  void test2();
 };
