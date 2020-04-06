@@ -12,3 +12,7 @@ void Box::smaller() {
   height -= 50;
 }
 int Box::getValue() { return width * height; }
+
+void Box::setWidth(int w) { width = w; }
+
+void Box::setHeight(int h) { height = h; }

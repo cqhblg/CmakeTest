@@ -9,4 +9,10 @@ class Box {
   void bigger();
   void smaller();
   int getValue();
+
+  void setWidth(int w);
+
+  void setHeight(int h);
+
+  void test();
 };
