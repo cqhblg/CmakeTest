@@ -1,0 +1,9 @@
+# ninja log v5
+0	722	607868350	CMakeFiles/CMakeTest.dir/src/main.cpp.obj	8d703597393ea99a
+737	1002	607868350	CMakeTest.exe	11c888ab61a222a1
+1	590	607877460	CMakeFiles/CMakeTest.dir/src/main.cpp.obj	cbd4abc83dc5a861
+3	329	607877561	CMakeFiles/CMakeTest.dir/src/processor.cpp.obj	b879525d0d798693
+0	334	607877561	CMakeFiles/CMakeTest.dir/src/dataKeeper.cpp.obj	674f7deea1907368
+0	352	607877673	CMakeFiles/CMakeTest.dir/src/Box.cpp.obj	79974d100c6caf44
+1	357	607877791	CMakeFiles/CMakeTest.dir/src/Box.cpp.obj	79974d100c6caf44
+358	521	607877791	CMakeTest.exe	e82705db0e58b31b
